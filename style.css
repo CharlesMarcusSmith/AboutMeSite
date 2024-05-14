@@ -1,0 +1,32 @@
+.FlexBox-Body{
+   
+}
+
+.FlexBox-Introduction{
+    width: 200px;
+    height: 10px;
+    border: 3px, solid #000000;
+    background-color: #5a5a5a;
+    margin: 3px;
+}
+
+.FlexBox-Lang{
+    min-height: 100px;
+    border: 3px, solid #000000;
+    background-color: #5a5a5a;
+    margin: 3px;
+}
+
+.FlexBox-Food{
+    min-height: 200px;
+    border: 3px, solid #000000;
+    background-color: #5a5a5a;
+    margin: 3px;
+}
+
+.FlexBox-Sites{
+    min-height: 300px;
+    border: 3px, solid #000000;
+    background-color: #5a5a5a;
+    margin: 3px;
+}
