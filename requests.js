@@ -2,7 +2,7 @@ export function getPizzaGif() {
   // Create a new instance of an HTTP request
   var request = new XMLHttpRequest();
   // Set up the URL endpoint we want to reach
-  const URL = "https://api.giphy.com/v1/gifs/random?api Key=1kym23Y6kQm4gMKJIbP3ahifu95feDge&tag=pizza&rating=g";
+  const URL = "https://api.giphy.com/v1/gifs/random?api_key=";
   
   // Make the request
   request.open('GET', URL); // Change requestUrl to URL
